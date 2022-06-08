@@ -12,7 +12,7 @@
 
 &#8195; &#8195; Right now you are visiting my personal website.
 
-&#8195; See also my [PhilPeople Profile](https://philpeople.org/profiles/zhaohui-wen) and [CV](https://philpeople.org/public_cache/file?content_type=application%2Fpdf&key=v4dHkPkzVwB68HCtGWPcSKvz).
+&#8195; See also my [PhilPeople Profile](https://philpeople.org/profiles/zhaohui-wen) and [CV](https://philpeople.org/public_cache/file?content_type=application%2Fpdf&key=wagR3sRLWZVkpKVyaHSqRxak).
 
 <font face="GEORGIA" font size="2">Photo ℗ Zhaohui Wen (2022)</font>
 
