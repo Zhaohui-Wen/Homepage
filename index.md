@@ -61,6 +61,7 @@ I acknowledge that it is not a long list, but I am confident that more entries a
 **Reviews and Comments**
 
 - Schultheis against Permissivism: A Critical Assessment. (2022). [[Download PDF]](https://docdro.id/kd5Xb8A)
+- Moral Responsibility, System of Value and Personal Identity. (2022). [[Abstract]](https://philpapers.org/rec/WENMRS) [[Download PDF]](https://philpapers.org/archive/WENMRS.pdf)
 
 **Works in Progress**
 
