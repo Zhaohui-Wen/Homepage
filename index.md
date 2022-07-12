@@ -68,7 +68,7 @@ I acknowledge that it is not a long list, but I am confident that more entries a
 - Global Frankfurt-Style Case and _Ceteris Paribus_ Avoidability. (2022). [[Abstract]](https://philpapers.org/rec/WENGFC) [[Download PDF]](https://philpapers.org/archive/WENGFC.pdf)
 - Virtue, Silenced Option and Asymmetry. (2022). [[Abstract]](https://philpapers.org/rec/WENVSO) [[Download PDF]](https://philpapers.org/archive/WENVSO.pdf)
 - Individuals, Social Groups and Ontological Priority. (2022). [[Abstract]](https://philpapers.org/rec/WENISG) [[Download PDF]](https://philpapers.org/archive/WENISG.pdf)
-- Middleism and Reality as Totality of Pluralities. (2022). [[Abstract]](https://philpapers.org/rec/WENMAR-5) [[Download PDF]](https://philpapers.org/rec/WENMAR-5.pdf)
+- Middleism and Reality as Totality of Pluralities. (2022). [[Abstract]](https://philpapers.org/rec/WENMAR-5) [[Download PDF]](https://philpapers.org/archive/WENMAR-5.pdf)
 
 **Andere Werke**
 
