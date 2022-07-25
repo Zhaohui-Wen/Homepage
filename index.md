@@ -113,14 +113,13 @@ Let alone my occupation as a professional philosopher, I am also
    
   - 温朝辉. 2018. 羽囚. 成都: 日知書店.
     
-    <font face="仿宋">[新诗合集] 收录《迟开蔷薇》（2012）、《不存粹的理性》（2014）、《Fanatical》（2015）、《倥偬与徒然》（2016）、《怀沙之后》（2017）、《终南的羽囚》（2018）共六部诗集。
-    其中《迟开蔷薇》（2012）、《不存粹的理性》（2014）曾单独出版，剩余四集都系首发。</font>
+    新诗合集<font face="仿宋">收录《迟开蔷薇》（2012）、《不存粹的理性》（2014）、《Fanatical》（2015）、《倥偬与徒然》（2016）、《怀沙之后》（2017）、《终南的羽囚》（2018）共六部诗集。其中《迟开蔷薇》（2012）、《不存粹的理性》（2014）曾单独出版，剩余四集都系首发。</font>
     
     [羽囚.pdf](https://github.com/Zhaohui-Wen/Homepage/files/9177358/default.pdf)
     
   - 溫朝輝. 2020. 殘山編. 成都: 潛庵藏版.
     
-    <font face="GEORGIA">原照影集甲乙丙丁稿</font>
+    <font face="仿宋">原照影集甲乙丙丁稿</font>
     
     [殘山編.pdf](https://github.com/Zhaohui-Wen/Homepage/files/9177373/default.pdf)
     
