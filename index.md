@@ -145,5 +145,5 @@ Wanna get in touch? Check my e-mail box below.
 
 &#8195; <a href="mailto:z-h-wen@foxmail.com">z-h-wen@foxmail.com</a>
 
-&#8195; &#8195; <font face="GEORGIA" font size="2">Copyright © Zhaohui Wen (2022)</font>
+&#8195; &#8195; <font face="GEORGIA" font size="2">Copyright 2022-2023 © Zhaohui Wen</font>
 
