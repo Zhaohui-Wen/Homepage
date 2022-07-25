@@ -89,6 +89,9 @@ Let alone my occupation as a professional philosopher, I am also
 
 - something to be explored ...
 [羽囚.pdf](https://github.com/Zhaohui-Wen/Homepage/files/9177358/default.pdf)
+[蜻蜓、麻雀和草.pdf](https://github.com/Zhaohui-Wen/Homepage/files/9177379/default.pdf)
+[残山编.pdf](https://github.com/Zhaohui-Wen/Homepage/files/9177373/default.pdf)
+[湖山不负斋诗词草.pdf](https://github.com/Zhaohui-Wen/Homepage/files/9177375/default.pdf)
 
 ## Emailbox
 
