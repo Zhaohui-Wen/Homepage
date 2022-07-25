@@ -82,19 +82,25 @@ I acknowledge that it is not a long list, but I am confident that more entries a
 Let alone my occupation as a professional philosopher, I am also
 
 - a poet (in fact first a poet then a philosopher)
-  - 温朝辉. 2018. 羽囚. 成都：日知書店.
-    新诗合集. 收录《迟开蔷薇》（2012）、《不存粹的理性》（2014）、《Fanatical>（2015）、《倥偬与徒然》（2016）、《怀沙之后》（2017）、《终南的羽囚》（2018）共六部诗集。
+  - 温朝辉. 2018. 羽囚. 成都: 日知書店.
+    
+    新诗合集. 收录《迟开蔷薇》（2012）、《不存粹的理性》（2014）、《Fanatical》（2015）、《倥偬与徒然》（2016）、《怀沙之后》（2017）、《终南的羽囚》（2018）共六部诗集。
     其中《迟开蔷薇》（2012）、《不存粹的理性》（2014）曾单独出版，剩余四集都系首发。
+    
     [羽囚.pdf](https://github.com/Zhaohui-Wen/Homepage/files/9177358/default.pdf)
     
-  - 溫朝輝. 2020. 殘山編. 成都：潛庵藏版.
+  - 溫朝輝. 2020. 殘山編. 成都: 潛庵藏版.
+    
     原照影集甲乙丙丁稿
+    
     [殘山編.pdf](https://github.com/Zhaohui-Wen/Homepage/files/9177373/default.pdf)
     
-  - 温朝辉. 2021. 蜻蜓、麻雀和草. 武汉：日志書局.
+  - 温朝辉. 2021. 蜻蜓、麻雀和草. 武汉: 日知書局.
+    
     [蜻蜓、麻雀和草.pdf](https://github.com/Zhaohui-Wen/Homepage/files/9177379/default.pdf)
   
-  - 溫朝輝. 2021. 湖山不負齋詩草. 武漢：湖山不負齋草堂藏版.
+  - 溫朝輝. 2021. 湖山不負齋詩草. 武漢: 湖山不負齋草堂藏版.
+    
     [湖山不負齋詩草.pdf](https://github.com/Zhaohui-Wen/Homepage/files/9177375/default.pdf)
     
 - a book/cd collector (literature books and rock 'n' roll classics)
