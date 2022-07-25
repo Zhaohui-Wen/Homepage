@@ -68,7 +68,7 @@ I acknowledge that it is not a long list, but I am confident that more entries a
 
   - Schultheis against Permissivism: A Critical Assessment. (2022). [[Download PDF]](https://docdro.id/kd5Xb8A)
 
-     <font face="GEORGIA">Comments on Schultheis, Ginger 2018, ‘Living on the edge: against epistemic permissivism’ Mind
+     <font face="GEORGIA">Comments on Schultheis, Ginger 2018, "Living on the edge: against epistemic permissivism" Mind
 127 (507), pp. 863–79.</font> 
   
   - Moral Responsibility, System of Value and Personal Identity. (2022). [[Download PDF]](https://philpapers.org/archive/WENMRS.pdf)
