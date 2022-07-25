@@ -62,14 +62,14 @@ I acknowledge that it is not a long list, but I am confident that more entries a
 
   - [Emptying Fine's Paradox with Grounding Pluralism. (2022).](https://philpapers.org/archive/WENREF.pdf)
 
-    <font face="GEORGIA">“The Luojia Undergraduate Philosophy Conference: Themes and Problems in Analytic Philosophy,” School of Philosophy, Wuhan University, 21st-22nd, June.</font> 
+    <font face="GEORGIA">“The Luojia Undergraduate Philosophy Conference: Themes and Problems in Analytic Philosophy,” School of Philosophy, Wuhan University, 21st–22nd, June.</font> 
 
 - **Review and Comments**
 
   - [Schultheis against Permissivism: A Critical Assessment. (2022).](https://docdro.id/kd5Xb8A)
 
      <font face="GEORGIA">Comments on Schultheis, Ginger 2018, “Living on the edge: against epistemic permissivism” Mind
-127 (507), pp. 863–79.</font> 
+127 (507), pp. 863–879.</font> 
   
   - [Moral Responsibility, System of Value and Personal Identity. (2022).](https://philpapers.org/archive/WENMRS.pdf)
   
@@ -145,5 +145,5 @@ Wanna get in touch? Check my e-mail box below.
 
 &#8195; <a href="mailto:z-h-wen@foxmail.com">z-h-wen@foxmail.com</a>
 
-&#8195; &#8195; <font face="GEORGIA" font size="2">Copyright 2022-2023 © Zhaohui Wen</font>
+&#8195; &#8195; <font face="GEORGIA" font size="2">Copyright 2022–2023 © Zhaohui Wen</font>
 
