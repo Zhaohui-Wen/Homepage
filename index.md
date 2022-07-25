@@ -97,11 +97,11 @@ I acknowledge that it is not a long list, but I am confident that more entries a
 
   - UC Implizieret 4D, Sicher? (2021[2022]). [[Download PDF]](https://philpapers.org/archive/WENEFP-3.pdf)
   
-  <font face="GEORGIA">An attempt to exempt Compositional Universalism from Four-dimensionalism.</font>
+    <font face="GEORGIA">An attempt to exempt Compositional Universalism from Four-dimensionalism.</font>
   
   - "Swamping Problem" als Doppelproblem. (2022). [[Download PDF]](https://philpapers.org/archive/WENSPA-2.pdf)
 
-  <font face="GEORGIA">Explanation on why "Swamping Problem" can hardly be solved by reductive proposals.</font> 
+    <font face="GEORGIA">Explanation on why "Swamping Problem" can hardly be solved by reductive proposals.</font> 
 
 ## Leisure
 
