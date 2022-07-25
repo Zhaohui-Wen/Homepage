@@ -63,7 +63,7 @@ I acknowledge that it is not a long list, but I am confident that more entries a
 - Schultheis against Permissivism: A Critical Assessment. (2022). [[Download PDF]](https://docdro.id/kd5Xb8A)
 - Moral Responsibility, System of Value and Personal Identity. (2022). [[Abstract]](https://philpapers.org/rec/WENMRS) [[Download PDF]](https://philpapers.org/archive/WENMRS.pdf)
 
-**Works in Progress**
+**In Progress/Under Review**
 
 - Global Frankfurt-Style Case and _Ceteris Paribus_ Avoidability. (2022). [[Abstract]](https://philpapers.org/rec/WENGFC) [[Download PDF]](https://philpapers.org/archive/WENGFC.pdf)
 - Virtue, Silenced Option and Asymmetry. (2022). [[Abstract]](https://philpapers.org/rec/WENVSO) [[Download PDF]](https://philpapers.org/archive/WENVSO.pdf)
