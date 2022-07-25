@@ -54,31 +54,35 @@ Beneath are my selected research projects, classified by types of writing.
 
 I acknowledge that it is not a long list, but I am confident that more entries are on their way coming.
 
-**Dessertation**
+- **Dessertation**
 
-- Weak-Emergence-Based Non-Reductive Physicalism. (Wuhan University, B.A. Thesis, 2023)
+  - Weak-Emergence-Based Non-Reductive Physicalism. (Wuhan University, B.A. Thesis, 2023)
 
+- **Conference Paper**
 
-**Conference Paper**
+  - Emptying Fine's Paradox with Grounding Pluralism. (2022). [[Download PDF]](https://philpapers.org/archive/WENREF.pdf)
 
-- Emptying Fine's Paradox with Grounding Pluralism. (2022). [[Abstract]](https://philpapers.org/rec/WENREF) [[Download PDF]](https://philpapers.org/archive/WENREF.pdf)
+- **Reviews and Comments**
 
-**Reviews and Comments**
+  - Schultheis against Permissivism: A Critical Assessment. (2022). [[Download PDF]](https://docdro.id/kd5Xb8A)
+  
+  - Moral Responsibility, System of Value and Personal Identity. (2022). [[Download PDF]](https://philpapers.org/archive/WENMRS.pdf)
 
-- Schultheis against Permissivism: A Critical Assessment. (2022). [[Download PDF]](https://docdro.id/kd5Xb8A)
-- Moral Responsibility, System of Value and Personal Identity. (2022). [[Abstract]](https://philpapers.org/rec/WENMRS) [[Download PDF]](https://philpapers.org/archive/WENMRS.pdf)
+- **In Progress/Under Review**
 
-**In Progress/Under Review**
+  - Global Frankfurt-Style Case and _Ceteris Paribus_ Avoidability. (2022). [[Download PDF]](https://philpapers.org/archive/WENGFC.pdf)
+  
+  - Virtue, Silenced Option and Asymmetry. (2022). [[Download PDF]](https://philpapers.org/archive/WENVSO.pdf)
+  
+  - Individuals, Social Groups and Ontological Priority. (2022). [[Download PDF]](https://philpapers.org/archive/WENISG.pdf)
+  
+  - Middleism and Reality as Totality of Pluralities. (2022). [[Download PDF]](https://philpapers.org/archive/WENMAR-5.pdf)
 
-- Global Frankfurt-Style Case and _Ceteris Paribus_ Avoidability. (2022). [[Abstract]](https://philpapers.org/rec/WENGFC) [[Download PDF]](https://philpapers.org/archive/WENGFC.pdf)
-- Virtue, Silenced Option and Asymmetry. (2022). [[Abstract]](https://philpapers.org/rec/WENVSO) [[Download PDF]](https://philpapers.org/archive/WENVSO.pdf)
-- Individuals, Social Groups and Ontological Priority. (2022). [[Abstract]](https://philpapers.org/rec/WENISG) [[Download PDF]](https://philpapers.org/archive/WENISG.pdf)
-- Middleism and Reality as Totality of Pluralities. (2022). [[Abstract]](https://philpapers.org/rec/WENMAR-5) [[Download PDF]](https://philpapers.org/archive/WENMAR-5.pdf)
+- **Andere Werke**
 
-**Andere Werke**
-
-- UC Implizieret 4D, Sicher? (2021[2022]). [[Abstract]](https://philpapers.org/rec/WENEFP-3) [[Download PDF]](https://philpapers.org/archive/WENEFP-3.pdf)
-- "Swamping Problem" als Doppelproblem. (2022). [[Abstract]](https://philpapers.org/rec/WENSPA-2) [[Download PDF]](https://philpapers.org/archive/WENSPA-2.pdf)
+  - UC Implizieret 4D, Sicher? (2021[2022]). [[Download PDF]](https://philpapers.org/archive/WENEFP-3.pdf)
+  
+  - "Swamping Problem" als Doppelproblem. (2022). [[Download PDF]](https://philpapers.org/archive/WENSPA-2.pdf)
 
 ## Leisure
 
