@@ -86,9 +86,7 @@ I acknowledge that it is not a long list, but I am confident that more entries a
 
 Let alone my occupation as a professional philosopher, I am also
 
-- a poet (in fact first a poet then a philosopher)
-
-<p> &#8195; <font face="GEORGIA">Sellected poems in print:</font></p>  
+- a poet (in fact first a poet then a philosopher); below is my sellected poems in print:
    
   - 温朝辉. 2018. 羽囚. 成都: 日知書店.
     
