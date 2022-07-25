@@ -56,7 +56,7 @@ I acknowledge that it is not a long list, but I am confident that more entries a
 
 - **Dessertation**
 
-  - Weak-Emergence-Based Non-Reductive Physicalism. (Wuhan University, B.A. Thesis, 2023)
+  - [Weak-Emergence-Based Non-Reductive Physicalism. (Wuhan University, B.A. Thesis, 2023)]
 
 - **Conference Paper**
 
