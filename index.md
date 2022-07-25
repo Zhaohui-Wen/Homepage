@@ -54,7 +54,12 @@ Beneath are my selected research projects, classified by types of writing.
 
 I acknowledge that it is not a long list, but I am confident that more entries are on their way coming.
 
-**Conference Papers**
+**Dessertation**
+
+- Weak-Emergence-Based Non-Reductive Physicalism. (Wuhan University, B.A. Thesis, 2023)
+
+
+**Conference Paper**
 
 - Emptying Fine's Paradox with Grounding Pluralism. (2022). [[Abstract]](https://philpapers.org/rec/WENREF) [[Download PDF]](https://philpapers.org/archive/WENREF.pdf)
 
