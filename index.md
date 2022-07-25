@@ -68,22 +68,22 @@ I acknowledge that it is not a long list, but I am confident that more entries a
 
   - [Schultheis against Permissivism: A Critical Assessment. (2022).](https://docdro.id/kd5Xb8A)
 
-     <font face="GEORGIA">Comments on Schultheis, Ginger 2018, "Living on the edge: against epistemic permissivism" Mind
+     <font face="GEORGIA">Comments on Schultheis, Ginger 2018, “Living on the edge: against epistemic permissivism” Mind
 127 (507), pp. 863–79.</font> 
   
   - [Moral Responsibility, System of Value and Personal Identity. (2022).](https://philpapers.org/archive/WENMRS.pdf)
   
-     <font face="GEORGIA">Review of Alfred R. Mele, "Manipulated Agents: A Window to Moral Responsibility", Oxford University Press, 2019.</font> 
+     <font face="GEORGIA">Review of Alfred R. Mele, “Manipulated Agents: A Window to Moral Responsibility,” Oxford University Press, 2019.</font> 
 
 - **In Progress/Under Review**
 
   - [Global Frankfurt-Style Case and _Ceteris Paribus_ Avoidability. (2022).](https://philpapers.org/archive/WENGFC.pdf)
   
-    <font face="GEORGIA">Two chanllenges to Whittle's Ceteris Paribus Account of moral responsibility to accommodate folk morality and Frankfurt-Style Cases.</font> 
+    <font face="GEORGIA">Two chanllenges to Whittle’s Ceteris Paribus Account of moral responsibility to accommodate folk morality and Frankfurt-Style Cases.</font> 
   
   - [Virtue, Silenced Option and Asymmetry. (2022).](https://philpapers.org/archive/WENVSO.pdf)
 
-    <font face="GEORGIA">A novel strategy, intersecting virtue ethics, to defend Susan Wolf's Asymmetry Thesis.</font> 
+    <font face="GEORGIA">A novel strategy, intersecting virtue ethics, to defend Susan Wolf’s Asymmetry Thesis.</font> 
   
   - [Individuals, Social Groups and Ontological Priority. (2022).](https://philpapers.org/archive/WENISG.pdf)
   
@@ -91,7 +91,7 @@ I acknowledge that it is not a long list, but I am confident that more entries a
   
   - [Middleism and Reality as Totality of Pluralities. (2022).](https://philpapers.org/archive/WENMAR-5.pdf)
   
-    <font face="GEORGIA">Byproduct of "Individuals, Social Groups and Ontological Priority."</font>
+    <font face="GEORGIA">Byproduct of “Individuals, Social Groups and Ontological Priority.”</font>
 
 - **Andere Werke**
 
