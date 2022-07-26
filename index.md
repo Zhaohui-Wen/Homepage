@@ -8,51 +8,51 @@
 
 <p><font face="GEORGIA">Welcome! Bienvenue! Willkommen!</font></p>
 
-&#8195; I am <font face="GEORGIA">Zhaohui Wen</font> and in short <font face="GEORGIA">Z. H. Wen</font>.
+&#8195; <font face="GEORGIA">I am Zhaohui Wen and in short Z. H. Wen.</font>
 
-&#8195; &#8195; Right now you are visiting my personal website.
+&#8195; &#8195; <font face="GEORGIA">Right now you are visiting my personal website.</font>
 
-&#8195; See also my [PhilPeople Profile](https://philpeople.org/profiles/zhaohui-wen) and [CV](https://www.docdroid.net/fYa6qXn/cv-pdf).
+&#8195; <font face="GEORGIA">See also my [PhilPeople Profile](https://philpeople.org/profiles/zhaohui-wen) and [CV](https://www.docdroid.net/fYa6qXn/cv-pdf).</font>
 
 <font face="GEORGIA" font size="2">Photo ℗ Zhaohui Wen (2022)</font>
 
 ## Career
 
-I am a <font face="GEORGIA">philospher</font>, more accurately, a <font face="GEORGIA">metaphysician</font>.
+<font face="GEORGIA">I am a philospher, more accurately, a metaphysician.</font>
 
-My areas of competence include topcis from various backgrounds.
+<font face="GEORGIA">My areas of competence include topcis from various backgrounds.</font>
 
 - **Metaphysics**
 
-  material composition, mereology, temporality, structure, meta-metaphysical methodology
+  <font face="GEORGIA">objects, mereology, temporality, inter-level metaphysics, global metaphysical theories</font>
 
 - **Philosophy of Mind**
 
-  metaphysics of mind, mental causation, "the hard peoblem" (<font face="GEORGIA">in Chalmers' sense</font>)
+  <font face="GEORGIA">metaphysics of mind, mental causation, "the hard peoblem" (in Chalmers’ sense)</font>
 
 - **Social Ontology**
 
-  the metaphysics of groups, social construction
+  <font face="GEORGIA">the metaphysics of groups, social construction</font>
   
 <p> &#8195; <font face="GEORGIA">Above are topics from analytic tradition.</font></p>
 
 - **20th Century German Philosophy**
 
-  the philosophy of Heidegger, M. and the philosophy of Gadmer, H.
+  <font face="GEORGIA">the philosophy of Heidegger, M. and the philosophy of Gadmer, H.</font>
 
 - **Classic Daoism**
 
-  the philosophy of Lao'zi and the philosophy of Zhuang'zi
+  <font face="GEORGIA">the philosophy of Lao’zi and the philosophy of Zhuang’zi</font>
   
 <p> &#8195; <font face="GEORGIA">Above are topics from other traditions.</font></p>
 
-For more details on those subjects you may consult [PhilPaper](https://philpapers.org/).
+<font face="GEORGIA">For more details on those subjects you may consult [PhilPaper](https://philpapers.org/).</font>
 
 ## Research
 
-Beneath are my selected research projects, classified by types of writing.
+<font face="GEORGIA">Beneath are my selected research projects, classified by types of writing.</font>
 
-I acknowledge that it is not a long list, but I am confident that more entries are on their way coming.
+<font face="GEORGIA">I acknowledge that it is not a long list, but I am confident that more entries are on their way coming.</font>
 
 - **Dessertation**
 
@@ -107,9 +107,9 @@ I acknowledge that it is not a long list, but I am confident that more entries a
 
 ## Leisure
 
-<p><font face="GEORGIA">Life is more than just Philosophy - It is true even for Kant: since there is also patrolling around Königsberg.</font></p>
+<p><font face="GEORGIA">“Life is more than just Philosophy - It is true even for Kant: since there is also patrolling around Königsberg.”</font></p>
 
-Let alone my occupation as a professional philosopher, I am also
+<font face="GEORGIA">Let alone my occupation as a professional philosopher, I am also</font>
 
 - a poet (in fact first a poet then a philosopher); below is my sellected poems in print:
    
@@ -117,23 +117,23 @@ Let alone my occupation as a professional philosopher, I am also
     
     <font face="仿宋">收录《迟开蔷薇》（2012）、《不存粹的理性》（2014）、《Fanatical》（2015）、《倥偬与徒然》（2016）、《怀沙之后》（2017）、《终南的羽囚》（2018）共六部诗集。其中《迟开蔷薇》（2012）、《不存粹的理性》（2014）曾单独出版，剩余四集都系首发。</font>
     
-    [羽囚.pdf](https://github.com/Zhaohui-Wen/Homepage/files/9177358/default.pdf)
+    <font face="宋体">[羽囚.pdf](https://github.com/Zhaohui-Wen/Homepage/files/9177358/default.pdf)</font>
     
   - 溫朝輝. 2020. 殘山編. 成都: 潛庵藏版.
     
-    <font face="仿宋">原照影集甲乙丙丁稿</font>
+    <font face="仿宋">原《照影集甲乙丙丁稿》</font>
     
-    [殘山編.pdf](https://github.com/Zhaohui-Wen/Homepage/files/9177373/default.pdf)
+    <font face="宋体">[殘山編.pdf](https://github.com/Zhaohui-Wen/Homepage/files/9177373/default.pdf)</font>
     
   - 温朝辉. 2021. 蜻蜓、麻雀和草. 武汉: 日知書局.
     
-    [蜻蜓、麻雀和草.pdf](https://github.com/Zhaohui-Wen/Homepage/files/9177379/default.pdf)
+    <font face="宋体">[蜻蜓、麻雀和草.pdf](https://github.com/Zhaohui-Wen/Homepage/files/9177379/default.pdf)</font>
   
   - 溫朝輝. 2021. 湖山不負齋詩草. 武漢: 湖山不負齋藏版.
     
-    [湖山不負齋詩草.pdf](https://github.com/Zhaohui-Wen/Homepage/files/9177375/default.pdf)
+    <font face="宋体">[湖山不負齋詩草.pdf](https://github.com/Zhaohui-Wen/Homepage/files/9177375/default.pdf)</font>
     
-- a book/cd collector (literature books and rock 'n' roll classics)
+- a book/cd collector (literature books and rock 'n' roll cds)
 
 - a painter (sketch, water colour, oil painting and traditional chinese painting)
 
@@ -145,7 +145,7 @@ Let alone my occupation as a professional philosopher, I am also
 
 Wanna get in touch? Check my e-mail box below.
 
-&#8195; <a href="mailto:z-h-wen@foxmail.com">z-h-wen@foxmail.com</a>
+&#8195; <font face="GEORGIA">z (hyphen) h (hyphen) wen (at) foxmail (dot) com</font>
 
 &#8195; &#8195; <font face="GEORGIA" font size="2">Copyright 2022–2023 © Zhaohui Wen</font>
 
