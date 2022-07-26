@@ -103,7 +103,7 @@
   
   - ["Swamping Problem" als Doppelproblem. (2022).](https://philpapers.org/archive/WENSPA-2.pdf)
 
-    <font face="GEORGIA">Explanation on why "Swamping Problem" can hardly be solved by reductive proposals.</font> 
+    <font face="GEORGIA">Explanation on why “Swamping Problem” can hardly be solved by reductive proposals.</font> 
 
 ## Leisure
 
