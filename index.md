@@ -107,7 +107,7 @@
 
 ## Leisure
 
-<p><font face="GEORGIA">“Life is more than just Philosophy - It is true even for Kant: since there is also patrolling around Königsberg.”</font></p>
+<p><font face="GEORGIA">“Life is more than just Philosophy——It is true even for Kant: since there is also patrolling around Königsberg.”</font></p>
 
 <font face="GEORGIA">Let alone my occupation as a professional philosopher, I am also</font>
 
@@ -115,13 +115,13 @@
    
   - 温朝辉. 2018. 羽囚. 成都: 日知書店.
     
-    <font face="仿宋">收录《迟开蔷薇》（2012）、《不存粹的理性》（2014）、《Fanatical》（2015）、《倥偬与徒然》（2016）、《怀沙之后》（2017）、《终南的羽囚》（2018）共六部诗集。其中《迟开蔷薇》（2012）、《不存粹的理性》（2014）曾单独出版，剩余四集都系首发。</font>
+    <font face="宋体">收录《迟开蔷薇》（2012）、《不存粹的理性》（2014）、《Fanatical》（2015）、《倥偬与徒然》（2016）、《怀沙之后》（2017）、《终南的羽囚》（2018）共六部诗集。其中《迟开蔷薇》（2012）、《不存粹的理性》（2014）曾单独出版，剩余四集都系首发。</font>
     
     [<font face="宋体">羽囚.</font><font face="GEORGIA">pdf</font>](https://github.com/Zhaohui-Wen/Homepage/files/9177358/default.pdf)
     
   - 溫朝輝. 2020. 殘山編. 成都: 潛庵藏版.
     
-    <font face="仿宋">原《照影集甲乙丙丁稿》</font>
+    <font face="宋体">原《照影集甲乙丙丁稿》</font>
     
     [<font face="宋体">殘山編.</font><font face="GEORGIA">pdf</font>](https://github.com/Zhaohui-Wen/Homepage/files/9177373/default.pdf)
     
