@@ -12,13 +12,13 @@
 
 &#8195; &#8195; <font face="GEORGIA">Right now you are visiting my personal website.</font>
 
-&#8195; <font face="GEORGIA">See also my [PhilPeople Profile](https://philpeople.org/profiles/zhaohui-wen) and [CV](https://www.docdroid.net/fYa6qXn/cv-pdf).</font>
+&#8195; <font face="GEORGIA">See also my</font> [<font face="GEORGIA">PhilPeople Profile</font>](https://philpeople.org/profiles/zhaohui-wen) <font face="GEORGIA">and</font> [<font face="GEORGIA">CV</font>](https://www.docdroid.net/fYa6qXn/cv-pdf).
 
 <font face="GEORGIA" font size="2">Photo ℗ Zhaohui Wen (2022)</font>
 
 ## Career
 
-<font face="GEORGIA">I am a philospher, more accurately, a metaphysician.</font>
+<p><font face="GEORGIA">I am a philospher, more accurately, a metaphysician.</font></p>
 
 <font face="GEORGIA">My areas of competence include topcis from various backgrounds.</font>
 
@@ -28,7 +28,7 @@
 
 - **Philosophy of Mind**
 
-  <font face="GEORGIA">metaphysics of mind, mental causation, "the hard peoblem" (in Chalmers’ sense)</font>
+  <font face="GEORGIA">metaphysics of mind, mental causation, “the hard peoblem” (in Chalmers’ sense)</font>
 
 - **Social Ontology**
 
@@ -46,11 +46,11 @@
   
 <p> &#8195; <font face="GEORGIA">Above are topics from other traditions.</font></p>
 
-<font face="GEORGIA">For more details on those subjects you may consult [PhilPaper](https://philpapers.org/).</font>
+<font face="GEORGIA">For more details on those subjects you may consult</font> [<font face="GEORGIA">PhilPaper</font>](https://philpapers.org/).
 
 ## Research
 
-<font face="GEORGIA">Beneath are my selected research projects, classified by types of writing.</font>
+<p><font face="GEORGIA">Beneath are my selected research projects, classified by types of writing.</font></p>
 
 <font face="GEORGIA">I acknowledge that it is not a long list, but I am confident that more entries are on their way coming.</font>
 
@@ -117,21 +117,21 @@
     
     <font face="仿宋">收录《迟开蔷薇》（2012）、《不存粹的理性》（2014）、《Fanatical》（2015）、《倥偬与徒然》（2016）、《怀沙之后》（2017）、《终南的羽囚》（2018）共六部诗集。其中《迟开蔷薇》（2012）、《不存粹的理性》（2014）曾单独出版，剩余四集都系首发。</font>
     
-    <font face="宋体">[羽囚.pdf](https://github.com/Zhaohui-Wen/Homepage/files/9177358/default.pdf)</font>
+    [<font face="宋体">羽囚.</font><font face="GEORGIA">pdf</font>](https://github.com/Zhaohui-Wen/Homepage/files/9177358/default.pdf)
     
   - 溫朝輝. 2020. 殘山編. 成都: 潛庵藏版.
     
     <font face="仿宋">原《照影集甲乙丙丁稿》</font>
     
-    <font face="宋体">[殘山編.pdf](https://github.com/Zhaohui-Wen/Homepage/files/9177373/default.pdf)</font>
+    [<font face="宋体">殘山編.</font><font face="GEORGIA">pdf</font>](https://github.com/Zhaohui-Wen/Homepage/files/9177373/default.pdf)
     
   - 温朝辉. 2021. 蜻蜓、麻雀和草. 武汉: 日知書局.
     
-    <font face="宋体">[蜻蜓、麻雀和草.pdf](https://github.com/Zhaohui-Wen/Homepage/files/9177379/default.pdf)</font>
+    [<font face="宋体">蜻蜓、麻雀和草.</font><font face="GEORGIA">pdf</font>](https://github.com/Zhaohui-Wen/Homepage/files/9177379/default.pdf)
   
   - 溫朝輝. 2021. 湖山不負齋詩草. 武漢: 湖山不負齋藏版.
     
-    [<font face="宋体">湖山不負齋詩草.pdf</font>](https://github.com/Zhaohui-Wen/Homepage/files/9177375/default.pdf)
+    [<font face="宋体">湖山不負齋詩草.</font><font face="GEORGIA">pdf</font>](https://github.com/Zhaohui-Wen/Homepage/files/9177375/default.pdf)
     
 - a book/cd collector (literature books and rock 'n' roll cds)
 
@@ -145,7 +145,6 @@
 
 <font face="GEORGIA">Wanna get in touch? Check my e-mail box below.</font>
 
-&#8195; <font face="GEORGIA">z (hyphen) h (hyphen) wen (at) foxmail (dot) com</font>
+<p>&#8195; <font face="GEORGIA">z (hyphen) h (hyphen) wen (at) foxmail (dot) com</font></p>
 
 &#8195; &#8195; <font face="GEORGIA" font size="2">Copyright 2022–2023 © Zhaohui Wen</font>
-
