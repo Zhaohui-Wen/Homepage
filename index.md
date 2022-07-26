@@ -131,7 +131,7 @@
   
   - 溫朝輝. 2021. 湖山不負齋詩草. 武漢: 湖山不負齋藏版.
     
-    <font face="宋体">[湖山不負齋詩草.pdf](https://github.com/Zhaohui-Wen/Homepage/files/9177375/default.pdf)</font>
+    [<font face="宋体">湖山不負齋詩草.pdf</font>](https://github.com/Zhaohui-Wen/Homepage/files/9177375/default.pdf)
     
 - a book/cd collector (literature books and rock 'n' roll cds)
 
@@ -143,7 +143,7 @@
 
 ## Emailbox
 
-Wanna get in touch? Check my e-mail box below.
+<font face="GEORGIA">Wanna get in touch? Check my e-mail box below.</font>
 
 &#8195; <font face="GEORGIA">z (hyphen) h (hyphen) wen (at) foxmail (dot) com</font>
 
